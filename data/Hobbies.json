@@ -1,0 +1,7 @@
+{ "_id" : 1, "name" : "Miranda", "hobbies" : [ "eating", "baking", "jiu-jitsu" ] }
+{ "_id" : 2, "name" : "Ilya", "hobbies" : [ "gaming", "skateboarding" ] }
+{ "_id" : 3, "name" : "nicolas Pascal", "hobbies" : [ "music", "gardening", "dancing", "improv" ] }
+{ "_id" : 4, "name" : "Tristan", "hobbies" : [ "painting", "boardgames" ] }
+{ "_id" : 5, "name" : "Nicolas Guignard", "hobbies" : [ "jiu-jitsu", "reading", "looking cool" ] }
+{ "_id" : 6, "name" : "Surya", "hobbies": [ "karate", "reading" ] }
+{ "_id" : 7, "name" : "Bob", "hobbies": [ "fishing" ] }
