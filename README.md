@@ -82,3 +82,24 @@ Bonus Q: Find everyone whoes name ends with a vowel too
 2. Find the student with the most hobbies and the highest exam score
 
 3. Find the students with 2 hobbies and the has the lowest homework score
+
+# Part 3 (Holidays)
+## Aggregations: $Project
+
+1. Using Aggregations and project - display for each document the just date, name and description fields
+
+2. Remove the `_id` field from the output if present
+
+3. Rename the `name` field to `holiday name` using aggregation and project only
+ 
+4. Transform the Date field to show year, month, and day in separate fields
+
+5. Group and count the number of holidays that occur on each year month day. eg. 10 holidays on 1/1/2020
+
+6. How many holidays are there per month?
+
+7. Sort the results by the month with the most holidays
+
+8. Sort the results by the day with the most holidays
+
+9. Randomly retrieve 3 dates (day, month, year) and the total number of holidays for that day
