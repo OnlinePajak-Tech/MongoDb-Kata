@@ -6,6 +6,6 @@ services:
     environment:
       - MONGO_DATA_DIR=/data/db
       - MONGO_LOG_DIR=/dev/null
-    entrypoint: ["mongod", "--smallfiles", "--logpath=/dev/null", "--bind_ip_all", "--replSet", "rs0" ]
+#    entrypoint: ["mongod", "--smallfiles", "--logpath=/dev/null", "--bind_ip_all" ]
     ports:
       - "27017:27017"
