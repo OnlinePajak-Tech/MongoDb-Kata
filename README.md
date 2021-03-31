@@ -9,6 +9,7 @@ run the below to import data:
 
 `mongoimport --db mongo_kata --collection Students --file ./data/Students.json`
 `mongoimport --db mongo_kata --collection Hobbies --file ./data/Hobbies.json`
+`mongoimport --db mongo_kata --collection Hobbies --file ./data/holidays.json`
 
 
 ## Questions
